@@ -1,0 +1,56 @@
+[
+  {
+    "id": "d01",
+    "name": "Pique macho",
+    "category": "Platos fuertes",
+    "description": "Carne de res, salchicha, papa frita, huevo, tomate, cebolla y locoto.",
+    "image": "prato-1.webp",
+    "price": null,
+    "priceLabel": "Cotizar"
+  },
+  {
+    "id": "d02",
+    "name": "Silpancho cochabambino",
+    "category": "Platos fuertes",
+    "description": "Carne apanada, arroz, papa, huevo frito y ensalada fresca.",
+    "image": "prato-2.webp",
+    "price": null,
+    "priceLabel": "Cotizar"
+  },
+  {
+    "id": "d03",
+    "name": "Sajta de pollo",
+    "category": "Platos fuertes",
+    "description": "Pollo en salsa de ají amarillo, acompañado de papa y tunta.",
+    "image": "prato-3.webp",
+    "price": null,
+    "priceLabel": "Cotizar"
+  },
+  {
+    "id": "d04",
+    "name": "Fricasé paceño",
+    "category": "Platos fuertes",
+    "description": "Cerdo en caldo de ají amarillo, mote y chuño.",
+    "image": "prato-4.webp",
+    "price": null,
+    "priceLabel": "Cotizar"
+  },
+  {
+    "id": "d05",
+    "name": "Plato paceño",
+    "category": "Platos fuertes",
+    "description": "Choclo, habas, papa, queso y llajua.",
+    "image": "prato-5.webp",
+    "price": null,
+    "priceLabel": "Cotizar"
+  },
+  {
+    "id": "d06",
+    "name": "Pollo al horno con guarnición",
+    "category": "Platos fuertes",
+    "description": "Pollo dorado al horno con papas y acompañamientos.",
+    "image": "prato-6.webp",
+    "price": null,
+    "priceLabel": "Cotizar"
+  }
+]
